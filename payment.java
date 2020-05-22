@@ -29,7 +29,9 @@ MENA changes  of other user are merged with  payment module
 new payment changes for UI interface
 
 above merged ...as was on UI interface
+<<<<<<< HEAD
   
-  ################3
-  
+
   new changes from UI interface
+=======
+new changes  by develpoer post UI merge --- another chnge by developer post merge UI
