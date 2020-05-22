@@ -18,5 +18,10 @@ new patch in payment module 2020
 new debit card feature chagnes in payment module a s well
 
 
+
 #############
 new changes after new use pull the git repostiry
+
+my payment changes in MENA shipment
+
+MENA changes  of other user are merged with  payment module 
